@@ -1,9 +1,11 @@
 RENCANA CONTENT :
 - Pembahasan
   * Teori
+     - IO
+     - AI
   * Pembahasan
     - Science
-    - General
+    - Hiburan
 - Tutorial
   * General
   * IT
