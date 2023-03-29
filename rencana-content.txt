@@ -3,5 +3,7 @@ RENCANA CONTENT :
   * Teori
   * Pembahasan
 - Tutorial
+  * General
+  * IT
 - Story teller
 - Review item
