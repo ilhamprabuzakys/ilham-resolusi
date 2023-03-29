@@ -1,5 +1,7 @@
 RENCANA CONTENT :
-- Vlog
+- Pembahasan
+  * Teori
+  * Pembahasan
 - Tutorial
 - Story teller
 - Review item
