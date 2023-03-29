@@ -11,3 +11,4 @@ RENCANA CONTENT :
   * IT
 - Story teller
 - Review item
+- Meme
