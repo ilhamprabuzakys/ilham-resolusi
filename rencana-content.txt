@@ -2,6 +2,8 @@ RENCANA CONTENT :
 - Pembahasan
   * Teori
   * Pembahasan
+    - Science
+    - General
 - Tutorial
   * General
   * IT
